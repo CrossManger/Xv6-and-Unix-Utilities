@@ -5,3 +5,5 @@
 Giảng viên: Lê Viết Long, Phạm Tuấn Sơn
 
 Video cài đặt xv6: https://drive.google.com/drive/folders/1sA-5WXcWEZg8SkY1ycmirFEd8oi8pHpc
+
+Video demo xv6: 
